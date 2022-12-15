@@ -1,0 +1,3206 @@
+[
+	{
+		"OBJECTID" : 1,
+		"HOEHE" : 2901,
+		"NAME" : "Piz Combul",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 10.043944784781406,
+		"LATITUDE" : 46.22962343791417,
+		"ELEVATION" : 2900.316211999998
+	},
+	{
+		"OBJECTID" : 2,
+		"HOEHE" : 3451,
+		"NAME" : "Piz Corvatsch",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.81606682597377,
+		"LATITUDE" : 46.40837302917678,
+		"ELEVATION" : 3450.548711999998
+	},
+	{
+		"OBJECTID" : 3,
+		"HOEHE" : 3104,
+		"NAME" : "Piz la Stretta",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.044810341192873,
+		"LATITUDE" : 46.476761097034256,
+		"ELEVATION" : 3103.5512119999985
+	},
+	{
+		"OBJECTID" : 4,
+		"HOEHE" : 3104,
+		"NAME" : "Monte Breva",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 10.044810341192873,
+		"LATITUDE" : 46.476761097034256,
+		"ELEVATION" : 3103.5512119999985
+	},
+	{
+		"OBJECTID" : 5,
+		"HOEHE" : 3026,
+		"NAME" : "Rötlspitz",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 10.4573203264759,
+		"LATITUDE" : 46.541880112821644,
+		"ELEVATION" : 3025.311211999997
+	},
+	{
+		"OBJECTID" : 6,
+		"HOEHE" : 3026,
+		"NAME" : "Piz Cotschen",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.4573203264759,
+		"LATITUDE" : 46.541880112821644,
+		"ELEVATION" : 3025.311211999997
+	},
+	{
+		"OBJECTID" : 7,
+		"HOEHE" : 3026,
+		"NAME" : "Punta Rosa",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 10.4573203264759,
+		"LATITUDE" : 46.541880112821644,
+		"ELEVATION" : 3025.311211999997
+	},
+	{
+		"OBJECTID" : 8,
+		"HOEHE" : 3103,
+		"NAME" : "Piz Cancian",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.999625860139934,
+		"LATITUDE" : 46.28329221115238,
+		"ELEVATION" : 3102.5850119999977
+	},
+	{
+		"OBJECTID" : 9,
+		"HOEHE" : 3363,
+		"NAME" : "Piz Fora",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.784729387172181,
+		"LATITUDE" : 46.3408185391646,
+		"ELEVATION" : 3362.433711999998
+	},
+	{
+		"OBJECTID" : 10,
+		"HOEHE" : 3453,
+		"NAME" : "Piz Varuna",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.993601608021804,
+		"LATITUDE" : 46.35237889568644,
+		"ELEVATION" : 3452.480011999998
+	},
+	{
+		"OBJECTID" : 11,
+		"HOEHE" : 3075,
+		"NAME" : "Piz Sena",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 10.109970777098447,
+		"LATITUDE" : 46.3531556922042,
+		"ELEVATION" : 3074.543711999997
+	},
+	{
+		"OBJECTID" : 12,
+		"HOEHE" : 3075,
+		"NAME" : "Vetta Sperella",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 10.109970777098447,
+		"LATITUDE" : 46.3531556922042,
+		"ELEVATION" : 3074.543711999997
+	},
+	{
+		"OBJECTID" : 13,
+		"HOEHE" : 2975,
+		"NAME" : "Piz Alv",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.99955365575798,
+		"LATITUDE" : 46.44932956443595,
+		"ELEVATION" : 2974.4562119999973
+	},
+	{
+		"OBJECTID" : 14,
+		"HOEHE" : 3154,
+		"NAME" : "Piz Chalchagn",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.905834910314226,
+		"LATITUDE" : 46.451394012173495,
+		"ELEVATION" : 3153.562511999997
+	},
+	{
+		"OBJECTID" : 15,
+		"HOEHE" : 3188,
+		"NAME" : "Piz Surlej",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.843121735390467,
+		"LATITUDE" : 46.45321263211718,
+		"ELEVATION" : 3187.907511999998
+	},
+	{
+		"OBJECTID" : 16,
+		"HOEHE" : 3049,
+		"NAME" : "Piz Minor",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.028328180561166,
+		"LATITUDE" : 46.451054198908075,
+		"ELEVATION" : 3048.6900119999973
+	},
+	{
+		"OBJECTID" : 17,
+		"HOEHE" : 3167,
+		"NAME" : "Piz Albris",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.963597765589252,
+		"LATITUDE" : 46.4639494199968,
+		"ELEVATION" : 3166.843711999998
+	},
+	{
+		"OBJECTID" : 18,
+		"HOEHE" : 3380,
+		"NAME" : "Piz Güglia",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.75991189493712,
+		"LATITUDE" : 46.491013900096625,
+		"ELEVATION" : 3379.213711999997
+	},
+	{
+		"OBJECTID" : 19,
+		"HOEHE" : 3380,
+		"NAME" : "Piz Julier",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.75991189493712,
+		"LATITUDE" : 46.491013900096625,
+		"ELEVATION" : 3379.213711999997
+	},
+	{
+		"OBJECTID" : 20,
+		"HOEHE" : 3153,
+		"NAME" : "Piz Prüna",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.987276468871944,
+		"LATITUDE" : 46.48724949378644,
+		"ELEVATION" : 3152.475011999997
+	},
+	{
+		"OBJECTID" : 21,
+		"HOEHE" : 3246,
+		"NAME" : "Piz Ot",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.810233233672372,
+		"LATITUDE" : 46.543205085599595,
+		"ELEVATION" : 3245.8687119999977
+	},
+	{
+		"OBJECTID" : 22,
+		"HOEHE" : 3125,
+		"NAME" : "Piz Schumbraida",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.338184396956555,
+		"LATITUDE" : 46.54273268680989,
+		"ELEVATION" : 3124.321211999997
+	},
+	{
+		"OBJECTID" : 23,
+		"HOEHE" : 2963,
+		"NAME" : "Piz Turettas",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.334752050831312,
+		"LATITUDE" : 46.58691350007111,
+		"ELEVATION" : 2962.5512119999985
+	},
+	{
+		"OBJECTID" : 24,
+		"HOEHE" : 3124,
+		"NAME" : "Piz Nuna",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.154511589481022,
+		"LATITUDE" : 46.723275160055664,
+		"ELEVATION" : 3123.2837119999967
+	},
+	{
+		"OBJECTID" : 25,
+		"HOEHE" : 2980,
+		"NAME" : "Pischahorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.94720078157393,
+		"LATITUDE" : 46.81306242773312,
+		"ELEVATION" : 2980.453711999997
+	},
+	{
+		"OBJECTID" : 26,
+		"HOEHE" : 3937,
+		"NAME" : "Piz Roseg",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.882952036804724,
+		"LATITUDE" : 46.37363129385927,
+		"ELEVATION" : 3936.4625119999982
+	},
+	{
+		"OBJECTID" : 27,
+		"HOEHE" : 3900,
+		"NAME" : "Piz Palü",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.960346694235625,
+		"LATITUDE" : 46.37886570845506,
+		"ELEVATION" : 3899.420011999997
+	},
+	{
+		"OBJECTID" : 28,
+		"HOEHE" : 4047,
+		"NAME" : "Piz Bernina",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.908000987346663,
+		"LATITUDE" : 46.38241331568261,
+		"ELEVATION" : 4048.4950119999976
+	},
+	{
+		"OBJECTID" : 29,
+		"HOEHE" : 3606,
+		"NAME" : "Piz Cambrena",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.977453565627112,
+		"LATITUDE" : 46.38737732480378,
+		"ELEVATION" : 3604.986211999998
+	},
+	{
+		"OBJECTID" : 30,
+		"HOEHE" : 3264,
+		"NAME" : "Scima da Saoseo",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 10.158010413536376,
+		"LATITUDE" : 46.38563016493802,
+		"ELEVATION" : 3263.5062119999984
+	},
+	{
+		"OBJECTID" : 31,
+		"HOEHE" : 3751,
+		"NAME" : "Piz Morteratsch",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.901541285494734,
+		"LATITUDE" : 46.4025385545714,
+		"ELEVATION" : 3750.433711999998
+	},
+	{
+		"OBJECTID" : 32,
+		"HOEHE" : 3302,
+		"NAME" : "Piz Paradisin",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 10.117223366156372,
+		"LATITUDE" : 46.42604285299949,
+		"ELEVATION" : 3301.6425119999967
+	},
+	{
+		"OBJECTID" : 33,
+		"HOEHE" : 3262,
+		"NAME" : "Piz Languard",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.95652552212431,
+		"LATITUDE" : 46.488437229638926,
+		"ELEVATION" : 3261.428711999997
+	},
+	{
+		"OBJECTID" : 34,
+		"HOEHE" : 3056,
+		"NAME" : "Piz Nair",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.787325205670871,
+		"LATITUDE" : 46.50640817687022,
+		"ELEVATION" : 3055.5112119999976
+	},
+	{
+		"OBJECTID" : 35,
+		"HOEHE" : 3199,
+		"NAME" : "Piz Vadret",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.950897651534882,
+		"LATITUDE" : 46.50884881243312,
+		"ELEVATION" : 3198.527511999997
+	},
+	{
+		"OBJECTID" : 36,
+		"HOEHE" : 3104,
+		"NAME" : "Munt Cotschen",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.042355238611176,
+		"LATITUDE" : 46.51011672079197,
+		"ELEVATION" : 3103.4450119999983
+	},
+	{
+		"OBJECTID" : 37,
+		"HOEHE" : 3230,
+		"NAME" : "Piz Bever",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.759263295782523,
+		"LATITUDE" : 46.522356578161194,
+		"ELEVATION" : 3229.482511999997
+	},
+	{
+		"OBJECTID" : 38,
+		"HOEHE" : 3161,
+		"NAME" : "Piz Saluver",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.795415161854889,
+		"LATITUDE" : 46.530507837388726,
+		"ELEVATION" : 3160.475011999997
+	},
+	{
+		"OBJECTID" : 39,
+		"HOEHE" : 2974,
+		"NAME" : "Piz Vaüglia",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.019357050896932,
+		"LATITUDE" : 46.55324016382224,
+		"ELEVATION" : 2973.2962119999975
+	},
+	{
+		"OBJECTID" : 40,
+		"HOEHE" : 3061,
+		"NAME" : "Piz Bial",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.75607159017185,
+		"LATITUDE" : 46.55901701345369,
+		"ELEVATION" : 3060.5287119999975
+	},
+	{
+		"OBJECTID" : 41,
+		"HOEHE" : 2952,
+		"NAME" : "Crasta Mora",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.867830778506825,
+		"LATITUDE" : 46.57148636984178,
+		"ELEVATION" : 2951.498711999997
+	},
+	{
+		"OBJECTID" : 42,
+		"HOEHE" : 2963,
+		"NAME" : "Piz Mezzaun",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.965206034929468,
+		"LATITUDE" : 46.56972512386422,
+		"ELEVATION" : 2962.520011999997
+	},
+	{
+		"OBJECTID" : 43,
+		"HOEHE" : 3004,
+		"NAME" : "Piz Costainas",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.474884400752543,
+		"LATITUDE" : 46.56228239702024,
+		"ELEVATION" : 3003.425011999998
+	},
+	{
+		"OBJECTID" : 44,
+		"HOEHE" : 3004,
+		"NAME" : "Furkelspitz",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 10.474884400752543,
+		"LATITUDE" : 46.56228239702024,
+		"ELEVATION" : 3003.425011999998
+	},
+	{
+		"OBJECTID" : 45,
+		"HOEHE" : 3071,
+		"NAME" : "Piz Chaschauna",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.078673508066176,
+		"LATITUDE" : 46.57512676942197,
+		"ELEVATION" : 3070.187511999997
+	},
+	{
+		"OBJECTID" : 46,
+		"HOEHE" : 3071,
+		"NAME" : "Piz Casana",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 10.078673508066176,
+		"LATITUDE" : 46.57512676942197,
+		"ELEVATION" : 3070.187511999997
+	},
+	{
+		"OBJECTID" : 47,
+		"HOEHE" : 3180,
+		"NAME" : "Piz Murtaröl",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.287472210119716,
+		"LATITUDE" : 46.57034807770327,
+		"ELEVATION" : 3179.9112119999972
+	},
+	{
+		"OBJECTID" : 48,
+		"HOEHE" : 3180,
+		"NAME" : "Cima la Casina",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 10.287472210119716,
+		"LATITUDE" : 46.57034807770327,
+		"ELEVATION" : 3179.9112119999972
+	},
+	{
+		"OBJECTID" : 49,
+		"HOEHE" : 2882,
+		"NAME" : "Piz Lad",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.409754143640143,
+		"LATITUDE" : 46.570993457379465,
+		"ELEVATION" : 2881.4037119999975
+	},
+	{
+		"OBJECTID" : 50,
+		"HOEHE" : 3267,
+		"NAME" : "Piz Üertsch",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.83638251523611,
+		"LATITUDE" : 46.59641543019983,
+		"ELEVATION" : 3266.4000119999982
+	},
+	{
+		"OBJECTID" : 51,
+		"HOEHE" : 3095,
+		"NAME" : "Piz Serra",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.105533410127546,
+		"LATITUDE" : 46.610796870269134,
+		"ELEVATION" : 3094.5075119999983
+	},
+	{
+		"OBJECTID" : 52,
+		"HOEHE" : 3126,
+		"NAME" : "Piz da l'Acqua",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.139012255249018,
+		"LATITUDE" : 46.61101041108206,
+		"ELEVATION" : 3125.4787119999983
+	},
+	{
+		"OBJECTID" : 53,
+		"HOEHE" : 3418,
+		"NAME" : "Piz d'Es-cha",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.872784253384541,
+		"LATITUDE" : 46.621305216165716,
+		"ELEVATION" : 3417.441211999998
+	},
+	{
+		"OBJECTID" : 54,
+		"HOEHE" : 3418,
+		"NAME" : "Piz Kesch",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.872784253384541,
+		"LATITUDE" : 46.621305216165716,
+		"ELEVATION" : 3417.441211999998
+	},
+	{
+		"OBJECTID" : 55,
+		"HOEHE" : 2968,
+		"NAME" : "Piz Daint",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.290916017593984,
+		"LATITUDE" : 46.618726386945326,
+		"ELEVATION" : 2967.8150119999973
+	},
+	{
+		"OBJECTID" : 56,
+		"HOEHE" : 3127,
+		"NAME" : "Piz d'Esan",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.060511182792041,
+		"LATITUDE" : 46.62433247030507,
+		"ELEVATION" : 3126.4675119999974
+	},
+	{
+		"OBJECTID" : 57,
+		"HOEHE" : 2763,
+		"NAME" : "Piz Chavalatsch",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.492055791823795,
+		"LATITUDE" : 46.61539102864425,
+		"ELEVATION" : 2762.4775119999977
+	},
+	{
+		"OBJECTID" : 58,
+		"HOEHE" : 3165,
+		"NAME" : "Piz Quattervals",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.094910030085934,
+		"LATITUDE" : 46.627165413127315,
+		"ELEVATION" : 3164.263711999998
+	},
+	{
+		"OBJECTID" : 59,
+		"HOEHE" : 2909,
+		"NAME" : "Piz Terza",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.399832194381803,
+		"LATITUDE" : 46.63857759542019,
+		"ELEVATION" : 2908.0987119999972
+	},
+	{
+		"OBJECTID" : 60,
+		"HOEHE" : 2909,
+		"NAME" : "Urtirolaspitz",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 10.399832194381803,
+		"LATITUDE" : 46.63857759542019,
+		"ELEVATION" : 2908.0987119999972
+	},
+	{
+		"OBJECTID" : 61,
+		"HOEHE" : 3020,
+		"NAME" : "Ducan Dador",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.83018324423837,
+		"LATITUDE" : 46.674873806526,
+		"ELEVATION" : 3019.191211999998
+	},
+	{
+		"OBJECTID" : 62,
+		"HOEHE" : 3020,
+		"NAME" : "Gletscher Ducan",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.83018324423837,
+		"LATITUDE" : 46.674873806526,
+		"ELEVATION" : 3019.191211999998
+	},
+	{
+		"OBJECTID" : 63,
+		"HOEHE" : 3077,
+		"NAME" : "Chüealphorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.905387546122618,
+		"LATITUDE" : 46.6853495385589,
+		"ELEVATION" : 3076.5300119999974
+	},
+	{
+		"OBJECTID" : 64,
+		"HOEHE" : 3168,
+		"NAME" : "Piz Tavrü",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.296063889506595,
+		"LATITUDE" : 46.67915428445976,
+		"ELEVATION" : 3167.5062119999984
+	},
+	{
+		"OBJECTID" : 65,
+		"HOEHE" : 3229,
+		"NAME" : "Piz Vadret",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.962691290099169,
+		"LATITUDE" : 46.687025364364146,
+		"ELEVATION" : 3228.4487119999976
+	},
+	{
+		"OBJECTID" : 66,
+		"HOEHE" : 3063,
+		"NAME" : "Hoch Ducan",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.851423912323167,
+		"LATITUDE" : 46.68952998026679,
+		"ELEVATION" : 3062.4600119999977
+	},
+	{
+		"OBJECTID" : 67,
+		"HOEHE" : 3063,
+		"NAME" : "Piz Ducan",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.851423912323167,
+		"LATITUDE" : 46.68952998026679,
+		"ELEVATION" : 3062.4600119999977
+	},
+	{
+		"OBJECTID" : 68,
+		"HOEHE" : 3178,
+		"NAME" : "Piz Sarsura",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.9944135186867,
+		"LATITUDE" : 46.691175344921675,
+		"ELEVATION" : 3177.465011999997
+	},
+	{
+		"OBJECTID" : 69,
+		"HOEHE" : 2906,
+		"NAME" : "Lenzer Horn",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.595091916842435,
+		"LATITUDE" : 46.709024075490575,
+		"ELEVATION" : 2905.5387119999978
+	},
+	{
+		"OBJECTID" : 70,
+		"HOEHE" : 3167,
+		"NAME" : "Piz Plavna Dadaint",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.223627987114478,
+		"LATITUDE" : 46.70874157104473,
+		"ELEVATION" : 3165.9850119999974
+	},
+	{
+		"OBJECTID" : 71,
+		"HOEHE" : 3204,
+		"NAME" : "Piz Sesvenna",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.40279781834001,
+		"LATITUDE" : 46.70593499667171,
+		"ELEVATION" : 3203.487511999998
+	},
+	{
+		"OBJECTID" : 72,
+		"HOEHE" : 2908,
+		"NAME" : "Leidbachhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.822218327623425,
+		"LATITUDE" : 46.72141361294575,
+		"ELEVATION" : 2907.496211999998
+	},
+	{
+		"OBJECTID" : 73,
+		"HOEHE" : 2980,
+		"NAME" : "Aroser Rothorn",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.613909378137606,
+		"LATITUDE" : 46.737861019843876,
+		"ELEVATION" : 2979.7400119999984
+	},
+	{
+		"OBJECTID" : 74,
+		"HOEHE" : 2815,
+		"NAME" : "Wuosthorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.877882931088054,
+		"LATITUDE" : 46.73457684152422,
+		"ELEVATION" : 2814.537511999997
+	},
+	{
+		"OBJECTID" : 75,
+		"HOEHE" : 3146,
+		"NAME" : "Schwarzhorn",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.94170639220141,
+		"LATITUDE" : 46.73576555184868,
+		"ELEVATION" : 3145.527511999997
+	},
+	{
+		"OBJECTID" : 76,
+		"HOEHE" : 3092,
+		"NAME" : "Piz Cristanas",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.392070796314266,
+		"LATITUDE" : 46.73451254931233,
+		"ELEVATION" : 3091.4087119999967
+	},
+	{
+		"OBJECTID" : 77,
+		"HOEHE" : 3099,
+		"NAME" : "Piz Madlain",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.339065566664653,
+		"LATITUDE" : 46.73960948781344,
+		"ELEVATION" : 3098.0962119999967
+	},
+	{
+		"OBJECTID" : 78,
+		"HOEHE" : 3173,
+		"NAME" : "Piz Pisoc",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.279496691462722,
+		"LATITUDE" : 46.74449090465782,
+		"ELEVATION" : 3172.4712119999967
+	},
+	{
+		"OBJECTID" : 79,
+		"HOEHE" : 3085,
+		"NAME" : "Flüela Wisshorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.966625800432178,
+		"LATITUDE" : 46.76212315616143,
+		"ELEVATION" : 3084.8075119999976
+	},
+	{
+		"OBJECTID" : 80,
+		"HOEHE" : 2781,
+		"NAME" : "Tiejer Flue",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.734584280762656,
+		"LATITUDE" : 46.780950713945245,
+		"ELEVATION" : 2780.875011999997
+	},
+	{
+		"OBJECTID" : 81,
+		"HOEHE" : 3105,
+		"NAME" : "Piz Lischana",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.345259683867486,
+		"LATITUDE" : 46.769549115142674,
+		"ELEVATION" : 3105.1262119999974
+	},
+	{
+		"OBJECTID" : 82,
+		"HOEHE" : 3410,
+		"NAME" : "Piz Linard",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.07143324574349,
+		"LATITUDE" : 46.79894215698057,
+		"ELEVATION" : 3409.7212119999967
+	},
+	{
+		"OBJECTID" : 83,
+		"HOEHE" : 2843,
+		"NAME" : "Weissfluh",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.794198705179086,
+		"LATITUDE" : 46.83521364946721,
+		"ELEVATION" : 2843.4437119999984
+	},
+	{
+		"OBJECTID" : 84,
+		"HOEHE" : 3312,
+		"NAME" : "Piz Buin Grond",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.11887725817306,
+		"LATITUDE" : 46.84412104802323,
+		"ELEVATION" : 3311.5575119999976
+	},
+	{
+		"OBJECTID" : 85,
+		"HOEHE" : 3028,
+		"NAME" : "Bündner Vorab",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.156782896725854,
+		"LATITUDE" : 46.87392461381569,
+		"ELEVATION" : 3026.2125119999982
+	},
+	{
+		"OBJECTID" : 86,
+		"HOEHE" : 3018,
+		"NAME" : "Glarner Vorab",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.152920277286471,
+		"LATITUDE" : 46.87987600051819,
+		"ELEVATION" : 3016.5062119999984
+	},
+	{
+		"OBJECTID" : 87,
+		"HOEHE" : 3230,
+		"NAME" : "Piz Blaisch Lunga",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.203853567155099,
+		"LATITUDE" : 46.86462341770501,
+		"ELEVATION" : 3229.6200119999976
+	},
+	{
+		"OBJECTID" : 88,
+		"HOEHE" : 3230,
+		"NAME" : "Augstenberg",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 10.203853567155099,
+		"LATITUDE" : 46.86462341770501,
+		"ELEVATION" : 3229.6200119999976
+	},
+	{
+		"OBJECTID" : 89,
+		"HOEHE" : 2887,
+		"NAME" : "Schildflue",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.956700048240187,
+		"LATITUDE" : 46.880785541679685,
+		"ELEVATION" : 2886.982511999997
+	},
+	{
+		"OBJECTID" : 90,
+		"HOEHE" : 3247,
+		"NAME" : "Ringelspitz",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.343085676564261,
+		"LATITUDE" : 46.89827499224583,
+		"ELEVATION" : 3246.982511999997
+	},
+	{
+		"OBJECTID" : 91,
+		"HOEHE" : 3247,
+		"NAME" : "Piz Barghis",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.343085676564261,
+		"LATITUDE" : 46.89827499224583,
+		"ELEVATION" : 3246.982511999997
+	},
+	{
+		"OBJECTID" : 92,
+		"HOEHE" : 3109,
+		"NAME" : "Gross Litzner",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 10.038247514336767,
+		"LATITUDE" : 46.88645619274251,
+		"ELEVATION" : 3108.622511999998
+	},
+	{
+		"OBJECTID" : 93,
+		"HOEHE" : 2804,
+		"NAME" : "Haldensteiner Calanda",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.467271713369202,
+		"LATITUDE" : 46.89988979073254,
+		"ELEVATION" : 2805.0175119999967
+	},
+	{
+		"OBJECTID" : 94,
+		"HOEHE" : 3099,
+		"NAME" : "Piz Segnas",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.239704042028201,
+		"LATITUDE" : 46.90789624930585,
+		"ELEVATION" : 3098.202511999998
+	},
+	{
+		"OBJECTID" : 95,
+		"HOEHE" : 3398,
+		"NAME" : "Piz Fenga",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 10.227436899600924,
+		"LATITUDE" : 46.890716451811834,
+		"ELEVATION" : 3397.121211999998
+	},
+	{
+		"OBJECTID" : 96,
+		"HOEHE" : 3398,
+		"NAME" : "Fluchthorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 10.227436899600924,
+		"LATITUDE" : 46.890716451811834,
+		"ELEVATION" : 3397.121211999998
+	},
+	{
+		"OBJECTID" : 97,
+		"HOEHE" : 3056,
+		"NAME" : "Piz Sardona",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.251597581577556,
+		"LATITUDE" : 46.922730915400805,
+		"ELEVATION" : 3057.0012119999974
+	},
+	{
+		"OBJECTID" : 98,
+		"HOEHE" : 3056,
+		"NAME" : "Surenstock",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.251597581577556,
+		"LATITUDE" : 46.922730915400805,
+		"ELEVATION" : 3057.0012119999974
+	},
+	{
+		"OBJECTID" : 99,
+		"HOEHE" : 3296,
+		"NAME" : "Muttler",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 10.378732846709386,
+		"LATITUDE" : 46.90066304207402,
+		"ELEVATION" : 3295.1187119999977
+	},
+	{
+		"OBJECTID" : 100,
+		"HOEHE" : 2825,
+		"NAME" : "Madrisahorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.872175471287578,
+		"LATITUDE" : 46.93106841965175,
+		"ELEVATION" : 2825.8150119999973
+	},
+	{
+		"OBJECTID" : 101,
+		"HOEHE" : 2844,
+		"NAME" : "Pizol",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.386717352719701,
+		"LATITUDE" : 46.95916003616178,
+		"ELEVATION" : 2843.465011999997
+	},
+	{
+		"OBJECTID" : 102,
+		"HOEHE" : 2817,
+		"NAME" : "Sulzfluh",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.839733712264104,
+		"LATITUDE" : 47.01267751437671,
+		"ELEVATION" : 2816.6600119999985
+	},
+	{
+		"OBJECTID" : 103,
+		"HOEHE" : 2965,
+		"NAME" : "Schesaplana",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.707392230782249,
+		"LATITUDE" : 47.05383275478272,
+		"ELEVATION" : 2964.5175119999967
+	},
+	{
+		"OBJECTID" : 104,
+		"HOEHE" : 2502,
+		"NAME" : "Säntis",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.343239822860319,
+		"LATITUDE" : 47.249425905231064,
+		"ELEVATION" : 2501.7737119999983
+	},
+	{
+		"OBJECTID" : 105,
+		"HOEHE" : 3192,
+		"NAME" : "Pizzo Rotondo",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.46612821394812,
+		"LATITUDE" : 46.51757464578747,
+		"ELEVATION" : 3191.2387119999985
+	},
+	{
+		"OBJECTID" : 106,
+		"HOEHE" : 2929,
+		"NAME" : "Uri Rotstock",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.535210632013847,
+		"LATITUDE" : 46.86176241494938,
+		"ELEVATION" : 2928.828711999997
+	},
+	{
+		"OBJECTID" : 107,
+		"HOEHE" : 2952,
+		"NAME" : "Brunnistock",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.55001182856939,
+		"LATITUDE" : 46.847707436277666,
+		"ELEVATION" : 2951.5862119999983
+	},
+	{
+		"OBJECTID" : 108,
+		"HOEHE" : 2700,
+		"NAME" : "Rotsandnollen",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.344084738222273,
+		"LATITUDE" : 46.8006766168034,
+		"ELEVATION" : 2700.0975119999985
+	},
+	{
+		"OBJECTID" : 109,
+		"HOEHE" : 3198,
+		"NAME" : "Gross Spannort",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.524598689477166,
+		"LATITUDE" : 46.78676914809696,
+		"ELEVATION" : 3197.590011999997
+	},
+	{
+		"OBJECTID" : 110,
+		"HOEHE" : 3238,
+		"NAME" : "Titlis",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.437780118333272,
+		"LATITUDE" : 46.772038519031355,
+		"ELEVATION" : 3237.902511999997
+	},
+	{
+		"OBJECTID" : 111,
+		"HOEHE" : 2994,
+		"NAME" : "Fünffingerstöck",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.436264096104978,
+		"LATITUDE" : 46.75217196433027,
+		"ELEVATION" : 2993.277511999997
+	},
+	{
+		"OBJECTID" : 112,
+		"HOEHE" : 2580,
+		"NAME" : "Tällistock",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.324881013660463,
+		"LATITUDE" : 46.745487880965264,
+		"ELEVATION" : 2579.3425119999974
+	},
+	{
+		"OBJECTID" : 113,
+		"HOEHE" : 3502,
+		"NAME" : "Sustenhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.455120401723478,
+		"LATITUDE" : 46.69893174771924,
+		"ELEVATION" : 3501.340011999997
+	},
+	{
+		"OBJECTID" : 114,
+		"HOEHE" : 2923,
+		"NAME" : "Mährenhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.31082834417323,
+		"LATITUDE" : 46.69177461520279,
+		"ELEVATION" : 2922.9775119999977
+	},
+	{
+		"OBJECTID" : 115,
+		"HOEHE" : 2928,
+		"NAME" : "Schwarzhoren",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.075562964437708,
+		"LATITUDE" : 46.68609636073274,
+		"ELEVATION" : 2927.355011999998
+	},
+	{
+		"OBJECTID" : 116,
+		"HOEHE" : 3554,
+		"NAME" : "Eggstock",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.418258325407242,
+		"LATITUDE" : 46.65218649400378,
+		"ELEVATION" : 3553.3462119999967
+	},
+	{
+		"OBJECTID" : 117,
+		"HOEHE" : 3608,
+		"NAME" : "Schneestock",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.421996377221245,
+		"LATITUDE" : 46.64790196084875,
+		"ELEVATION" : 3607.527511999997
+	},
+	{
+		"OBJECTID" : 118,
+		"HOEHE" : 3282,
+		"NAME" : "Ritzlihoren",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.258859247731497,
+		"LATITUDE" : 46.6322717800937,
+		"ELEVATION" : 3276.6712119999975
+	},
+	{
+		"OBJECTID" : 119,
+		"HOEHE" : 4078,
+		"NAME" : "Schreckhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.118141855294214,
+		"LATITUDE" : 46.589893132922256,
+		"ELEVATION" : 4077.9000119999982
+	},
+	{
+		"OBJECTID" : 120,
+		"HOEHE" : 2777,
+		"NAME" : "Schwalmere",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.816743843809555,
+		"LATITUDE" : 46.592908249772286,
+		"ELEVATION" : 2776.576211999998
+	},
+	{
+		"OBJECTID" : 121,
+		"HOEHE" : 3247,
+		"NAME" : "Bächlistock",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.23952366451702,
+		"LATITUDE" : 46.58657918209366,
+		"ELEVATION" : 3246.185011999998
+	},
+	{
+		"OBJECTID" : 122,
+		"HOEHE" : 4042,
+		"NAME" : "Lauteraarhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.12831021486855,
+		"LATITUDE" : 46.5833025112532,
+		"ELEVATION" : 4041.043711999997
+	},
+	{
+		"OBJECTID" : 123,
+		"HOEHE" : 3970,
+		"NAME" : "Eiger",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.005282622491247,
+		"LATITUDE" : 46.577597799074105,
+		"ELEVATION" : 3969.4762119999978
+	},
+	{
+		"OBJECTID" : 124,
+		"HOEHE" : 4107,
+		"NAME" : "Mönch",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.9972721073299455,
+		"LATITUDE" : 46.55849786722709,
+		"ELEVATION" : 4106.471211999997
+	},
+	{
+		"OBJECTID" : 125,
+		"HOEHE" : 3099,
+		"NAME" : "Gross Muttenhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.42714774919296,
+		"LATITUDE" : 46.54655672485409,
+		"ELEVATION" : 3098.641211999997
+	},
+	{
+		"OBJECTID" : 126,
+		"HOEHE" : 4158,
+		"NAME" : "Jungfrau",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.962589612108931,
+		"LATITUDE" : 46.536782383328514,
+		"ELEVATION" : 4157.920011999997
+	},
+	{
+		"OBJECTID" : 127,
+		"HOEHE" : 3436,
+		"NAME" : "Gspaltenhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.827278990066247,
+		"LATITUDE" : 46.51159474554578,
+		"ELEVATION" : 3435.5687119999984
+	},
+	{
+		"OBJECTID" : 128,
+		"HOEHE" : 4010,
+		"NAME" : "Lagginhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.003080682614842,
+		"LATITUDE" : 46.157055485193446,
+		"ELEVATION" : 4009.7575119999983
+	},
+	{
+		"OBJECTID" : 129,
+		"HOEHE" : 2762,
+		"NAME" : "Albristhore",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.48932687386953,
+		"LATITUDE" : 46.49712104452972,
+		"ELEVATION" : 2761.662511999997
+	},
+	{
+		"OBJECTID" : 130,
+		"HOEHE" : 3892,
+		"NAME" : "Mittaghorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.932608771292959,
+		"LATITUDE" : 46.49820910012473,
+		"ELEVATION" : 3891.885011999997
+	},
+	{
+		"OBJECTID" : 131,
+		"HOEHE" : 3754,
+		"NAME" : "Grosshorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.910051093053557,
+		"LATITUDE" : 46.48698887463015,
+		"ELEVATION" : 3753.687511999997
+	},
+	{
+		"OBJECTID" : 132,
+		"HOEHE" : 3780,
+		"NAME" : "Breithorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.876799932863537,
+		"LATITUDE" : 46.47852713106291,
+		"ELEVATION" : 3779.0925119999974
+	},
+	{
+		"OBJECTID" : 133,
+		"HOEHE" : 4193,
+		"NAME" : "Aletschhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.9936705750761785,
+		"LATITUDE" : 46.46514887102221,
+		"ELEVATION" : 4192.862511999998
+	},
+	{
+		"OBJECTID" : 134,
+		"HOEHE" : 3797,
+		"NAME" : "Schinhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.946623670271098,
+		"LATITUDE" : 46.4515629467787,
+		"ELEVATION" : 3796.1662119999983
+	},
+	{
+		"OBJECTID" : 135,
+		"HOEHE" : 3740,
+		"NAME" : "Geisshorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.005638219764029,
+		"LATITUDE" : 46.44104445899182,
+		"ELEVATION" : 3739.5012119999974
+	},
+	{
+		"OBJECTID" : 136,
+		"HOEHE" : 3146,
+		"NAME" : "Steghorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.584101509345776,
+		"LATITUDE" : 46.416756605696186,
+		"ELEVATION" : 3145.9500119999975
+	},
+	{
+		"OBJECTID" : 137,
+		"HOEHE" : 3629,
+		"NAME" : "Altels",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.678449046364475,
+		"LATITUDE" : 46.4289399377211,
+		"ELEVATION" : 3628.7000119999975
+	},
+	{
+		"OBJECTID" : 138,
+		"HOEHE" : 3243,
+		"NAME" : "Grossstrubel",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.562417013305554,
+		"LATITUDE" : 46.41246614025105,
+		"ELEVATION" : 3242.4387119999974
+	},
+	{
+		"OBJECTID" : 139,
+		"HOEHE" : 3699,
+		"NAME" : "Balmhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.693517845911887,
+		"LATITUDE" : 46.42506250763212,
+		"ELEVATION" : 3698.1537119999975
+	},
+	{
+		"OBJECTID" : 140,
+		"HOEHE" : 3236,
+		"NAME" : "Ofenhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.318627351123535,
+		"LATITUDE" : 46.386425526139746,
+		"ELEVATION" : 3235.760011999997
+	},
+	{
+		"OBJECTID" : 141,
+		"HOEHE" : 3236,
+		"NAME" : "Punta d'Arbola",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.318627351123535,
+		"LATITUDE" : 46.386425526139746,
+		"ELEVATION" : 3235.760011999997
+	},
+	{
+		"OBJECTID" : 142,
+		"HOEHE" : 3785,
+		"NAME" : "Breithorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.893863577253977,
+		"LATITUDE" : 46.41895504044516,
+		"ELEVATION" : 3784.481211999997
+	},
+	{
+		"OBJECTID" : 143,
+		"HOEHE" : 3821,
+		"NAME" : "Nesthorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.9259950862534145,
+		"LATITUDE" : 46.41315536807467,
+		"ELEVATION" : 3819.8375119999982
+	},
+	{
+		"OBJECTID" : 144,
+		"HOEHE" : 3448,
+		"NAME" : "Rinderhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.654301759569354,
+		"LATITUDE" : 46.41355499761616,
+		"ELEVATION" : 3447.8425119999974
+	},
+	{
+		"OBJECTID" : 145,
+		"HOEHE" : 3244,
+		"NAME" : "Wildstrubel",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.528630728499307,
+		"LATITUDE" : 46.40034351112105,
+		"ELEVATION" : 3243.0700119999983
+	},
+	{
+		"OBJECTID" : 146,
+		"HOEHE" : 2748,
+		"NAME" : "Batnall",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.440487104546314,
+		"LATITUDE" : 46.304151200252285,
+		"ELEVATION" : 2748.0650119999973
+	},
+	{
+		"OBJECTID" : 147,
+		"HOEHE" : 2748,
+		"NAME" : "Madone",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.440487104546314,
+		"LATITUDE" : 46.304151200252285,
+		"ELEVATION" : 2748.0650119999973
+	},
+	{
+		"OBJECTID" : 148,
+		"HOEHE" : 3180,
+		"NAME" : "Ferdenrothorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.707243053289207,
+		"LATITUDE" : 46.408458907938034,
+		"ELEVATION" : 3179.7400119999984
+	},
+	{
+		"OBJECTID" : 149,
+		"HOEHE" : 3934,
+		"NAME" : "Bietschhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.85076690579069,
+		"LATITUDE" : 46.3915561280064,
+		"ELEVATION" : 3933.141211999997
+	},
+	{
+		"OBJECTID" : 150,
+		"HOEHE" : 2548,
+		"NAME" : "Le Tarent",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.147559274701507,
+		"LATITUDE" : 46.38207851605569,
+		"ELEVATION" : 2547.7275119999977
+	},
+	{
+		"OBJECTID" : 151,
+		"HOEHE" : 3307,
+		"NAME" : "Wilerhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.8105751241750365,
+		"LATITUDE" : 46.37859386432769,
+		"ELEVATION" : 3306.122511999998
+	},
+	{
+		"OBJECTID" : 152,
+		"HOEHE" : 3374,
+		"NAME" : "Corno Cieco",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.30770729747382,
+		"LATITUDE" : 46.42588218539169,
+		"ELEVATION" : 3373.7437119999977
+	},
+	{
+		"OBJECTID" : 153,
+		"HOEHE" : 3374,
+		"NAME" : "Blinnenhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.30770729747382,
+		"LATITUDE" : 46.42588218539169,
+		"ELEVATION" : 3373.7437119999977
+	},
+	{
+		"OBJECTID" : 154,
+		"HOEHE" : 2924,
+		"NAME" : "Mont Brun",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.261853634883823,
+		"LATITUDE" : 46.33746035452955,
+		"ELEVATION" : 2924.0062119999984
+	},
+	{
+		"OBJECTID" : 155,
+		"HOEHE" : 2924,
+		"NAME" : "Sanetschhore",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.261853634883823,
+		"LATITUDE" : 46.33746035452955,
+		"ELEVATION" : 2924.0062119999984
+	},
+	{
+		"OBJECTID" : 156,
+		"HOEHE" : 2912,
+		"NAME" : "Cristallina",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.536711113249314,
+		"LATITUDE" : 46.464746339413814,
+		"ELEVATION" : 2911.576211999998
+	},
+	{
+		"OBJECTID" : 157,
+		"HOEHE" : 2904,
+		"NAME" : "Tête à Pierre Grept",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.1552020426064145,
+		"LATITUDE" : 46.25277392727556,
+		"ELEVATION" : 2903.2062119999973
+	},
+	{
+		"OBJECTID" : 158,
+		"HOEHE" : 2969,
+		"NAME" : "Haut de Cry",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.195043184986555,
+		"LATITUDE" : 46.24026583936854,
+		"ELEVATION" : 2968.9262119999985
+	},
+	{
+		"OBJECTID" : 159,
+		"HOEHE" : 3025,
+		"NAME" : "Bella Tola",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.653718260676785,
+		"LATITUDE" : 46.23907448058049,
+		"ELEVATION" : 3024.7262119999978
+	},
+	{
+		"OBJECTID" : 160,
+		"HOEHE" : 3051,
+		"NAME" : "Grand Muveran",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.1261464842559255,
+		"LATITUDE" : 46.23718274302848,
+		"ELEVATION" : 3050.9225119999974
+	},
+	{
+		"OBJECTID" : 161,
+		"HOEHE" : 2899,
+		"NAME" : "Grand Chavalard",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.113029344872881,
+		"LATITUDE" : 46.17866312125546,
+		"ELEVATION" : 2898.9562119999973
+	},
+	{
+		"OBJECTID" : 162,
+		"HOEHE" : 2864,
+		"NAME" : "Poncione di Braga",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.543017127947598,
+		"LATITUDE" : 46.43441677003771,
+		"ELEVATION" : 2863.855011999998
+	},
+	{
+		"OBJECTID" : 163,
+		"HOEHE" : 3985,
+		"NAME" : "Fletschhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.0024849314226,
+		"LATITUDE" : 46.16717294352722,
+		"ELEVATION" : 3984.758711999997
+	},
+	{
+		"OBJECTID" : 164,
+		"HOEHE" : 3149,
+		"NAME" : "Becs de Bosson",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.518969283140378,
+		"LATITUDE" : 46.1680982042324,
+		"ELEVATION" : 3148.7175119999974
+	},
+	{
+		"OBJECTID" : 165,
+		"HOEHE" : 3609,
+		"NAME" : "Les Diablons",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.670897206658704,
+		"LATITUDE" : 46.142459069998615,
+		"ELEVATION" : 3607.9037119999975
+	},
+	{
+		"OBJECTID" : 166,
+		"HOEHE" : 3238,
+		"NAME" : "Grand Golliat",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.101474398759723,
+		"LATITUDE" : 45.85919702331532,
+		"ELEVATION" : 3237.117511999997
+	},
+	{
+		"OBJECTID" : 167,
+		"HOEHE" : 3518,
+		"NAME" : "Mont Gelé",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.366083696623272,
+		"LATITUDE" : 45.90414455137041,
+		"ELEVATION" : 3517.683711999998
+	},
+	{
+		"OBJECTID" : 168,
+		"HOEHE" : 2652,
+		"NAME" : "Männliflue",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.546659636934273,
+		"LATITUDE" : 46.551295089467054,
+		"ELEVATION" : 2652.1487119999983
+	},
+	{
+		"OBJECTID" : 169,
+		"HOEHE" : 3210,
+		"NAME" : "Sommet des Diablerets",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.189108906615863,
+		"LATITUDE" : 46.30390485359144,
+		"ELEVATION" : 3209.7800119999974
+	},
+	{
+		"OBJECTID" : 170,
+		"HOEHE" : 3049,
+		"NAME" : "Vordere Loner",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.6001033637174125,
+		"LATITUDE" : 46.46196629535341,
+		"ELEVATION" : 3048.1725119999974
+	},
+	{
+		"OBJECTID" : 171,
+		"HOEHE" : 3257,
+		"NAME" : "Haute Cime",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 6.9232443224785065,
+		"LATITUDE" : 46.16108047372713,
+		"ELEVATION" : 3256.9775119999977
+	},
+	{
+		"OBJECTID" : 172,
+		"HOEHE" : 4274,
+		"NAME" : "Finsteraarhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.126167322255439,
+		"LATITUDE" : 46.537301239292574,
+		"ELEVATION" : 4273.311211999997
+	},
+	{
+		"OBJECTID" : 173,
+		"HOEHE" : 2863,
+		"NAME" : "Wandfluhhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.464172112803956,
+		"LATITUDE" : 46.34464341018044,
+		"ELEVATION" : 2863.0387119999978
+	},
+	{
+		"OBJECTID" : 174,
+		"HOEHE" : 2863,
+		"NAME" : "Pizzo Bìela",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.464172112803956,
+		"LATITUDE" : 46.34464341018044,
+		"ELEVATION" : 2863.0387119999978
+	},
+	{
+		"OBJECTID" : 175,
+		"HOEHE" : 2681,
+		"NAME" : "Faulhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.999076531291152,
+		"LATITUDE" : 46.67483497971121,
+		"ELEVATION" : 2680.4725119999985
+	},
+	{
+		"OBJECTID" : 176,
+		"HOEHE" : 2831,
+		"NAME" : "Le Cheval Blanc",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 6.872761174454493,
+		"LATITUDE" : 46.05192903191561,
+		"ELEVATION" : 2830.9037119999975
+	},
+	{
+		"OBJECTID" : 177,
+		"HOEHE" : 3220,
+		"NAME" : "Tour Sallière",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 6.924599925528323,
+		"LATITUDE" : 46.12686329486722,
+		"ELEVATION" : 3219.9262119999985
+	},
+	{
+		"OBJECTID" : 178,
+		"HOEHE" : 3084,
+		"NAME" : "Mont Rogneux",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.230808666594643,
+		"LATITUDE" : 46.00952051121867,
+		"ELEVATION" : 3083.746211999998
+	},
+	{
+		"OBJECTID" : 179,
+		"HOEHE" : 3663,
+		"NAME" : "Petit Combin",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.267709099803663,
+		"LATITUDE" : 45.98402549902834,
+		"ELEVATION" : 3662.857511999997
+	},
+	{
+		"OBJECTID" : 180,
+		"HOEHE" : 3490,
+		"NAME" : "Pointe de Vouasson",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.425450567837595,
+		"LATITUDE" : 46.0713525836191,
+		"ELEVATION" : 3489.4050119999974
+	},
+	{
+		"OBJECTID" : 181,
+		"HOEHE" : 3418,
+		"NAME" : "Grande Dent de Veisivi",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.527922399367861,
+		"LATITUDE" : 46.05077994633547,
+		"ELEVATION" : 3417.850011999997
+	},
+	{
+		"OBJECTID" : 182,
+		"HOEHE" : 3962,
+		"NAME" : "Grand Cornier",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.611542017859461,
+		"LATITUDE" : 46.052109783150605,
+		"ELEVATION" : 3961.305011999997
+	},
+	{
+		"OBJECTID" : 183,
+		"HOEHE" : 4092,
+		"NAME" : "Punta Polluce",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.785287006619173,
+		"LATITUDE" : 45.92780444409201,
+		"ELEVATION" : 4090.8312119999973
+	},
+	{
+		"OBJECTID" : 184,
+		"HOEHE" : 4092,
+		"NAME" : "Pollux",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.785287006619173,
+		"LATITUDE" : 45.92780444409201,
+		"ELEVATION" : 4090.8312119999973
+	},
+	{
+		"OBJECTID" : 185,
+		"HOEHE" : 2760,
+		"NAME" : "Pizzo Massari",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.683229780479659,
+		"LATITUDE" : 46.475947137645655,
+		"ELEVATION" : 2759.6100119999974
+	},
+	{
+		"OBJECTID" : 186,
+		"HOEHE" : 2747,
+		"NAME" : "Schenadüi",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.748673799794094,
+		"LATITUDE" : 46.55245470635764,
+		"ELEVATION" : 2746.3350119999977
+	},
+	{
+		"OBJECTID" : 187,
+		"HOEHE" : 3661,
+		"NAME" : "Blüemlisalphorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.771769361557302,
+		"LATITUDE" : 46.48876842451518,
+		"ELEVATION" : 3660.1187119999977
+	},
+	{
+		"OBJECTID" : 188,
+		"HOEHE" : 3178,
+		"NAME" : "Cime de l'Est",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 6.948038632080631,
+		"LATITUDE" : 46.17282565721189,
+		"ELEVATION" : 3177.9937119999977
+	},
+	{
+		"OBJECTID" : 189,
+		"HOEHE" : 3057,
+		"NAME" : "Grand Ruan",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 6.9029762262624965,
+		"LATITUDE" : 46.124292277515266,
+		"ELEVATION" : 3056.782511999998
+	},
+	{
+		"OBJECTID" : 190,
+		"HOEHE" : 3057,
+		"NAME" : "Mont Ruan",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 6.9029762262624965,
+		"LATITUDE" : 46.124292277515266,
+		"ELEVATION" : 3056.782511999998
+	},
+	{
+		"OBJECTID" : 191,
+		"HOEHE" : 2915,
+		"NAME" : "Bächistock",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.989097013313954,
+		"LATITUDE" : 46.992892365136626,
+		"ELEVATION" : 2915.0575119999976
+	},
+	{
+		"OBJECTID" : 192,
+		"HOEHE" : 2764,
+		"NAME" : "Höch Windgällen",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.791757326012162,
+		"LATITUDE" : 46.88793430983859,
+		"ELEVATION" : 2763.6362119999976
+	},
+	{
+		"OBJECTID" : 193,
+		"HOEHE" : 2928,
+		"NAME" : "Six Madun",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 8.663675670112951,
+		"LATITUDE" : 46.622511562260016,
+		"ELEVATION" : 2927.7262119999978
+	},
+	{
+		"OBJECTID" : 194,
+		"HOEHE" : 2928,
+		"NAME" : "Badus",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 8.663675670112951,
+		"LATITUDE" : 46.622511562260016,
+		"ELEVATION" : 2927.7262119999978
+	},
+	{
+		"OBJECTID" : 195,
+		"HOEHE" : 2946,
+		"NAME" : "Wissensteinhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.228530822476559,
+		"LATITUDE" : 46.62343249984839,
+		"ELEVATION" : 2945.487511999998
+	},
+	{
+		"OBJECTID" : 196,
+		"HOEHE" : 2946,
+		"NAME" : "Piz Tomül",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.228530822476559,
+		"LATITUDE" : 46.62343249984839,
+		"ELEVATION" : 2945.487511999998
+	},
+	{
+		"OBJECTID" : 197,
+		"HOEHE" : 2929,
+		"NAME" : "Bärenhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.231972094981762,
+		"LATITUDE" : 46.575491203939094,
+		"ELEVATION" : 2928.2287119999983
+	},
+	{
+		"OBJECTID" : 198,
+		"HOEHE" : 2586,
+		"NAME" : "Pizzo Molare",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.86506070847695,
+		"LATITUDE" : 46.48861651974923,
+		"ELEVATION" : 2585.451211999998
+	},
+	{
+		"OBJECTID" : 199,
+		"HOEHE" : 2972,
+		"NAME" : "Piz Curvér",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.497101443059748,
+		"LATITUDE" : 46.603426841896706,
+		"ELEVATION" : 2971.9137119999978
+	},
+	{
+		"OBJECTID" : 200,
+		"HOEHE" : 2880,
+		"NAME" : "Piz Fess",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.288865469247817,
+		"LATITUDE" : 46.72762300136114,
+		"ELEVATION" : 2880.861211999998
+	},
+	{
+		"OBJECTID" : 201,
+		"HOEHE" : 3256,
+		"NAME" : "Gross Düssi",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.82767893434373,
+		"LATITUDE" : 46.79162793280118,
+		"ELEVATION" : 3255.7350119999974
+	},
+	{
+		"OBJECTID" : 202,
+		"HOEHE" : 3256,
+		"NAME" : "Piz Git",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 8.82767893434373,
+		"LATITUDE" : 46.79162793280118,
+		"ELEVATION" : 3255.7350119999974
+	},
+	{
+		"OBJECTID" : 203,
+		"HOEHE" : 3159,
+		"NAME" : "Piz Mitgel",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.646564847044592,
+		"LATITUDE" : 46.6142533890789,
+		"ELEVATION" : 3158.260011999997
+	},
+	{
+		"OBJECTID" : 204,
+		"HOEHE" : 3173,
+		"NAME" : "Tinzenhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.671322303832055,
+		"LATITUDE" : 46.61205819132128,
+		"ELEVATION" : 3172.465011999997
+	},
+	{
+		"OBJECTID" : 205,
+		"HOEHE" : 3173,
+		"NAME" : "Corn da Tinizong",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.671322303832055,
+		"LATITUDE" : 46.61205819132128,
+		"ELEVATION" : 3172.465011999997
+	},
+	{
+		"OBJECTID" : 206,
+		"HOEHE" : 3339,
+		"NAME" : "Piz Ela",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.707630821290012,
+		"LATITUDE" : 46.60195505349736,
+		"ELEVATION" : 3338.420011999997
+	},
+	{
+		"OBJECTID" : 207,
+		"HOEHE" : 3128,
+		"NAME" : "Piz Bleis Marscha",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.719747955562108,
+		"LATITUDE" : 46.57007715844044,
+		"ELEVATION" : 3127.4950119999976
+	},
+	{
+		"OBJECTID" : 208,
+		"HOEHE" : 3262,
+		"NAME" : "Piz Forbesch",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.559167980899971,
+		"LATITUDE" : 46.5203312654796,
+		"ELEVATION" : 3261.263711999998
+	},
+	{
+		"OBJECTID" : 209,
+		"HOEHE" : 2910,
+		"NAME" : "Piz Neir",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.680180065529864,
+		"LATITUDE" : 46.4843958148347,
+		"ELEVATION" : 2909.0387119999978
+	},
+	{
+		"OBJECTID" : 210,
+		"HOEHE" : 3203,
+		"NAME" : "Piz Arblatsch",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.576967562564668,
+		"LATITUDE" : 46.53551643221854,
+		"ELEVATION" : 3202.4762119999978
+	},
+	{
+		"OBJECTID" : 211,
+		"HOEHE" : 3397,
+		"NAME" : "Piz Calderas",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.695961072403128,
+		"LATITUDE" : 46.536435099861805,
+		"ELEVATION" : 3396.4400119999973
+	},
+	{
+		"OBJECTID" : 212,
+		"HOEHE" : 3378,
+		"NAME" : "Piz d'Err",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.691497429781247,
+		"LATITUDE" : 46.5451854507567,
+		"ELEVATION" : 3377.8137119999974
+	},
+	{
+		"OBJECTID" : 213,
+		"HOEHE" : 3204,
+		"NAME" : "Piz d'Agnel",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.702238536889755,
+		"LATITUDE" : 46.51145345204814,
+		"ELEVATION" : 3203.5012119999974
+	},
+	{
+		"OBJECTID" : 214,
+		"HOEHE" : 3392,
+		"NAME" : "Piz Platta",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.561662144628245,
+		"LATITUDE" : 46.48706420737612,
+		"ELEVATION" : 3391.468711999998
+	},
+	{
+		"OBJECTID" : 215,
+		"HOEHE" : 3165,
+		"NAME" : "Piz Lagrev",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.723001034586618,
+		"LATITUDE" : 46.44569774742053,
+		"ELEVATION" : 3164.0812119999973
+	},
+	{
+		"OBJECTID" : 216,
+		"HOEHE" : 3164,
+		"NAME" : "Mazzaspitz",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.573988736674806,
+		"LATITUDE" : 46.46512804087511,
+		"ELEVATION" : 3163.5987119999972
+	},
+	{
+		"OBJECTID" : 217,
+		"HOEHE" : 3018,
+		"NAME" : "Piz Turba",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.60566830977421,
+		"LATITUDE" : 46.410279585600776,
+		"ELEVATION" : 3017.545011999997
+	},
+	{
+		"OBJECTID" : 218,
+		"HOEHE" : 3159,
+		"NAME" : "Piz da la Margna",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.730000077971557,
+		"LATITUDE" : 46.381951140623045,
+		"ELEVATION" : 3158.5562119999977
+	},
+	{
+		"OBJECTID" : 219,
+		"HOEHE" : 3053,
+		"NAME" : "Piz Piot",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.586904714078052,
+		"LATITUDE" : 46.40286903283034,
+		"ELEVATION" : 3052.5350119999985
+	},
+	{
+		"OBJECTID" : 220,
+		"HOEHE" : 3244,
+		"NAME" : "Piz Bacun",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.682336653719068,
+		"LATITUDE" : 46.34231097104697,
+		"ELEVATION" : 3243.5012119999974
+	},
+	{
+		"OBJECTID" : 221,
+		"HOEHE" : 2932,
+		"NAME" : "Piz Grevasalvas",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.674435663884115,
+		"LATITUDE" : 46.42288478403613,
+		"ELEVATION" : 2931.6025119999977
+	},
+	{
+		"OBJECTID" : 222,
+		"HOEHE" : 2927,
+		"NAME" : "Piz d'Emmat Dadaint",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.703832872233482,
+		"LATITUDE" : 46.44070474784404,
+		"ELEVATION" : 2926.5525119999984
+	},
+	{
+		"OBJECTID" : 223,
+		"HOEHE" : 2780,
+		"NAME" : "Piz Lunghin",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.67028913179621,
+		"LATITUDE" : 46.41051036170106,
+		"ELEVATION" : 2779.5875119999982
+	},
+	{
+		"OBJECTID" : 224,
+		"HOEHE" : 3107,
+		"NAME" : "Gletscherhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.560631926313441,
+		"LATITUDE" : 46.38744758263922,
+		"ELEVATION" : 3106.5187119999973
+	},
+	{
+		"OBJECTID" : 225,
+		"HOEHE" : 3131,
+		"NAME" : "Piz Duan",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.58316450638898,
+		"LATITUDE" : 46.37531721681405,
+		"ELEVATION" : 3130.5075119999983
+	},
+	{
+		"OBJECTID" : 226,
+		"HOEHE" : 3214,
+		"NAME" : "Monte del Forno",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.72471876857718,
+		"LATITUDE" : 46.33826355452402,
+		"ELEVATION" : 3213.515011999998
+	},
+	{
+		"OBJECTID" : 227,
+		"HOEHE" : 3379,
+		"NAME" : "Cima di Castello",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.677459090240676,
+		"LATITUDE" : 46.30186252865768,
+		"ELEVATION" : 3378.6612119999972
+	},
+	{
+		"OBJECTID" : 228,
+		"HOEHE" : 3302,
+		"NAME" : "Pizzo Badile",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.586320492851184,
+		"LATITUDE" : 46.29531061556294,
+		"ELEVATION" : 3306.998711999997
+	},
+	{
+		"OBJECTID" : 229,
+		"HOEHE" : 3369,
+		"NAME" : "Pizzo Cengalo",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.601960645543874,
+		"LATITUDE" : 46.29491286346007,
+		"ELEVATION" : 3368.7800119999974
+	},
+	{
+		"OBJECTID" : 230,
+		"HOEHE" : 3383,
+		"NAME" : "Tieralplistock",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.37497869328183,
+		"LATITUDE" : 46.63310778232327,
+		"ELEVATION" : 3382.6637119999978
+	},
+	{
+		"OBJECTID" : 231,
+		"HOEHE" : 3692,
+		"NAME" : "Wetterhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.115546704107958,
+		"LATITUDE" : 46.6387551471371,
+		"ELEVATION" : 3691.5225119999977
+	},
+	{
+		"OBJECTID" : 232,
+		"HOEHE" : 3588,
+		"NAME" : "Hinterer Rhonestock",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.419279056327323,
+		"LATITUDE" : 46.63418813630816,
+		"ELEVATION" : 3587.3150119999973
+	},
+	{
+		"OBJECTID" : 233,
+		"HOEHE" : 3515,
+		"NAME" : "Tiefenstock",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.422360789115011,
+		"LATITUDE" : 46.62726528041091,
+		"ELEVATION" : 3514.9000119999982
+	},
+	{
+		"OBJECTID" : 234,
+		"HOEHE" : 3630,
+		"NAME" : "Dammastock",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.421079897729316,
+		"LATITUDE" : 46.643481649204496,
+		"ELEVATION" : 3629.7787119999975
+	},
+	{
+		"OBJECTID" : 235,
+		"HOEHE" : 3586,
+		"NAME" : "Galenstock",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.416957723631224,
+		"LATITUDE" : 46.61261857970096,
+		"ELEVATION" : 3585.6200119999976
+	},
+	{
+		"OBJECTID" : 236,
+		"HOEHE" : 4044,
+		"NAME" : "Grosses Grünhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.077722846920723,
+		"LATITUDE" : 46.531995699994376,
+		"ELEVATION" : 4043.1812119999977
+	},
+	{
+		"OBJECTID" : 237,
+		"HOEHE" : 3630,
+		"NAME" : "Oberaarhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.174497965828618,
+		"LATITUDE" : 46.53140734186828,
+		"ELEVATION" : 3629.812511999997
+	},
+	{
+		"OBJECTID" : 238,
+		"HOEHE" : 3638,
+		"NAME" : "Doldenhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.734911601627536,
+		"LATITUDE" : 46.46853622299657,
+		"ELEVATION" : 3637.9162119999983
+	},
+	{
+		"OBJECTID" : 239,
+		"HOEHE" : 3272,
+		"NAME" : "Helsenhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.191618069437459,
+		"LATITUDE" : 46.304793018285665,
+		"ELEVATION" : 3271.793711999997
+	},
+	{
+		"OBJECTID" : 240,
+		"HOEHE" : 3194,
+		"NAME" : "Bortelhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.125639579124957,
+		"LATITUDE" : 46.294566183179334,
+		"ELEVATION" : 3193.1362119999976
+	},
+	{
+		"OBJECTID" : 241,
+		"HOEHE" : 3194,
+		"NAME" : "Punta del Rebbio",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.125639579124957,
+		"LATITUDE" : 46.294566183179334,
+		"ELEVATION" : 3193.1362119999976
+	},
+	{
+		"OBJECTID" : 242,
+		"HOEHE" : 3176,
+		"NAME" : "Ober Rappehorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.269917889023844,
+		"LATITUDE" : 46.410458675803895,
+		"ELEVATION" : 3175.617511999997
+	},
+	{
+		"OBJECTID" : 243,
+		"HOEHE" : 3248,
+		"NAME" : "Wildhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.360744565685089,
+		"LATITUDE" : 46.35454816820981,
+		"ELEVATION" : 3247.595011999998
+	},
+	{
+		"OBJECTID" : 244,
+		"HOEHE" : 3123,
+		"NAME" : "Oldehore",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.221468669177574,
+		"LATITUDE" : 46.32924798316124,
+		"ELEVATION" : 3122.6662119999983
+	},
+	{
+		"OBJECTID" : 245,
+		"HOEHE" : 3123,
+		"NAME" : "Becca d'Audon",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.221468669177574,
+		"LATITUDE" : 46.32924798316124,
+		"ELEVATION" : 3122.6662119999983
+	},
+	{
+		"OBJECTID" : 246,
+		"HOEHE" : 3201,
+		"NAME" : "Schwarzhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.756808718439629,
+		"LATITUDE" : 46.21677469867393,
+		"ELEVATION" : 3200.7850119999985
+	},
+	{
+		"OBJECTID" : 247,
+		"HOEHE" : 2969,
+		"NAME" : "Grande Dent de Morcles",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.07548750998467,
+		"LATITUDE" : 46.199335979373636,
+		"ELEVATION" : 2968.9600119999977
+	},
+	{
+		"OBJECTID" : 248,
+		"HOEHE" : 3626,
+		"NAME" : "Gross Bigerhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.8703707351400665,
+		"LATITUDE" : 46.14514786216925,
+		"ELEVATION" : 3625.5525119999984
+	},
+	{
+		"OBJECTID" : 249,
+		"HOEHE" : 3714,
+		"NAME" : "La Singla",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.471919540520919,
+		"LATITUDE" : 45.94575069462382,
+		"ELEVATION" : 3713.766211999997
+	},
+	{
+		"OBJECTID" : 250,
+		"HOEHE" : 2963,
+		"NAME" : "Pizzo Lucendro",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.519472570447734,
+		"LATITUDE" : 46.538903589731326,
+		"ELEVATION" : 2962.730011999998
+	},
+	{
+		"OBJECTID" : 251,
+		"HOEHE" : 3036,
+		"NAME" : "Arpelistock",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.315236317642867,
+		"LATITUDE" : 46.34385386214935,
+		"ELEVATION" : 3035.0850119999977
+	},
+	{
+		"OBJECTID" : 252,
+		"HOEHE" : 3272,
+		"NAME" : "Basòdino",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.468441175281326,
+		"LATITUDE" : 46.411563578085136,
+		"ELEVATION" : 3272.010011999997
+	},
+	{
+		"OBJECTID" : 253,
+		"HOEHE" : 3213,
+		"NAME" : "Le Métailler",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.360405463034813,
+		"LATITUDE" : 46.10404658828698,
+		"ELEVATION" : 3212.492511999997
+	},
+	{
+		"OBJECTID" : 254,
+		"HOEHE" : 4357,
+		"NAME" : "Dent Blanche",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.611929594989884,
+		"LATITUDE" : 46.0342557561967,
+		"ELEVATION" : 4356.752511999997
+	},
+	{
+		"OBJECTID" : 255,
+		"HOEHE" : 3637,
+		"NAME" : "Mont Collon",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.507455372530815,
+		"LATITUDE" : 45.97707122260308,
+		"ELEVATION" : 3636.8462119999967
+	},
+	{
+		"OBJECTID" : 256,
+		"HOEHE" : 3870,
+		"NAME" : "Mont Blanc de Cheilon",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.417356631323382,
+		"LATITUDE" : 45.99314716742418,
+		"ELEVATION" : 3869.5462119999975
+	},
+	{
+		"OBJECTID" : 257,
+		"HOEHE" : 3790,
+		"NAME" : "Pigne d'Arolla",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.455063696569914,
+		"LATITUDE" : 45.991386146185654,
+		"ELEVATION" : 3788.9500119999975
+	},
+	{
+		"OBJECTID" : 258,
+		"HOEHE" : 3704,
+		"NAME" : "Le Pleureur",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.369147362129521,
+		"LATITUDE" : 46.01624356868843,
+		"ELEVATION" : 3703.6987119999976
+	},
+	{
+		"OBJECTID" : 259,
+		"HOEHE" : 3531,
+		"NAME" : "Bec d'Epicoune",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.422351787338255,
+		"LATITUDE" : 45.91467090137575,
+		"ELEVATION" : 3530.890011999998
+	},
+	{
+		"OBJECTID" : 260,
+		"HOEHE" : 4314,
+		"NAME" : "Combin de Grafeneire",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.299235186550533,
+		"LATITUDE" : 45.93758660695636,
+		"ELEVATION" : 4313.338711999997
+	},
+	{
+		"OBJECTID" : 261,
+		"HOEHE" : 3403,
+		"NAME" : "Pointe d'Otemma",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.397798363959336,
+		"LATITUDE" : 45.943486802576324,
+		"ELEVATION" : 3402.855011999998
+	},
+	{
+		"OBJECTID" : 262,
+		"HOEHE" : 3329,
+		"NAME" : "Mont Fort",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.318712573872255,
+		"LATITUDE" : 46.08055100530223,
+		"ELEVATION" : 3328.787511999997
+	},
+	{
+		"OBJECTID" : 263,
+		"HOEHE" : 3336,
+		"NAME" : "Rosablanche",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.3541666616783585,
+		"LATITUDE" : 46.060502739192096,
+		"ELEVATION" : 3335.867511999997
+	},
+	{
+		"OBJECTID" : 264,
+		"HOEHE" : 3676,
+		"NAME" : "Dent de Perroc",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.523187674580281,
+		"LATITUDE" : 46.03942940597728,
+		"ELEVATION" : 3675.7237119999972
+	},
+	{
+		"OBJECTID" : 265,
+		"HOEHE" : 3668,
+		"NAME" : "Aiguille de la Tsa",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.522268786504102,
+		"LATITUDE" : 46.02149915591967,
+		"ELEVATION" : 3667.078711999997
+	},
+	{
+		"OBJECTID" : 266,
+		"HOEHE" : 4063,
+		"NAME" : "Ober Gabelhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.668049002742509,
+		"LATITUDE" : 46.03854602978428,
+		"ELEVATION" : 4062.3537119999983
+	},
+	{
+		"OBJECTID" : 267,
+		"HOEHE" : 3796,
+		"NAME" : "Balfrin",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.880273027642297,
+		"LATITUDE" : 46.13515163879275,
+		"ELEVATION" : 3795.187511999997
+	},
+	{
+		"OBJECTID" : 268,
+		"HOEHE" : 4017,
+		"NAME" : "Weissmies",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.011986273037769,
+		"LATITUDE" : 46.127693763317225,
+		"ELEVATION" : 4016.6362119999976
+	},
+	{
+		"OBJECTID" : 269,
+		"HOEHE" : 4199,
+		"NAME" : "Rimpfischhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.883933111471037,
+		"LATITUDE" : 46.02311794879299,
+		"ELEVATION" : 4198.737511999998
+	},
+	{
+		"OBJECTID" : 270,
+		"HOEHE" : 4190,
+		"NAME" : "Strahlhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.902033630019356,
+		"LATITUDE" : 46.01317997894767,
+		"ELEVATION" : 4189.8012119999985
+	},
+	{
+		"OBJECTID" : 271,
+		"HOEHE" : 3532,
+		"NAME" : "Stockhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.837881530054655,
+		"LATITUDE" : 45.98563083007245,
+		"ELEVATION" : 3531.633711999997
+	},
+	{
+		"OBJECTID" : 272,
+		"HOEHE" : 4164,
+		"NAME" : "Breithorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.747655436303528,
+		"LATITUDE" : 45.94101003684363,
+		"ELEVATION" : 4162.920011999997
+	},
+	{
+		"OBJECTID" : 273,
+		"HOEHE" : 3833,
+		"NAME" : "Brunegghorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.745780161981426,
+		"LATITUDE" : 46.12590579319018,
+		"ELEVATION" : 3832.0800119999967
+	},
+	{
+		"OBJECTID" : 274,
+		"HOEHE" : 4506,
+		"NAME" : "Weisshorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.716066940612068,
+		"LATITUDE" : 46.101244713222684,
+		"ELEVATION" : 4505.668711999997
+	},
+	{
+		"OBJECTID" : 275,
+		"HOEHE" : 3610,
+		"NAME" : "Üssers Barrhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.734079589146511,
+		"LATITUDE" : 46.15592165848552,
+		"ELEVATION" : 3609.701211999998
+	},
+	{
+		"OBJECTID" : 276,
+		"HOEHE" : 3583,
+		"NAME" : "Inners Barrhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.737304448472234,
+		"LATITUDE" : 46.14970653830578,
+		"ELEVATION" : 3582.7525119999973
+	},
+	{
+		"OBJECTID" : 277,
+		"HOEHE" : 4491,
+		"NAME" : "Täschhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.857191124307284,
+		"LATITUDE" : 46.083429586435976,
+		"ELEVATION" : 4490.648711999998
+	},
+	{
+		"OBJECTID" : 278,
+		"HOEHE" : 4545,
+		"NAME" : "Dom",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.8588387508325,
+		"LATITUDE" : 46.09398380451816,
+		"ELEVATION" : 4544.703711999997
+	},
+	{
+		"OBJECTID" : 279,
+		"HOEHE" : 4327,
+		"NAME" : "Nadelhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.8640538415655525,
+		"LATITUDE" : 46.1088769450141,
+		"ELEVATION" : 4326.508711999997
+	},
+	{
+		"OBJECTID" : 280,
+		"HOEHE" : 3406,
+		"NAME" : "Mettelhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.74168224811991,
+		"LATITUDE" : 46.05564537940602,
+		"ELEVATION" : 3405.720011999998
+	},
+	{
+		"OBJECTID" : 281,
+		"HOEHE" : 4221,
+		"NAME" : "Zinalrothorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.6901199081079605,
+		"LATITUDE" : 46.06483212447338,
+		"ELEVATION" : 4220.643711999997
+	},
+	{
+		"OBJECTID" : 282,
+		"HOEHE" : 4206,
+		"NAME" : "Alphubel",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.863819470785419,
+		"LATITUDE" : 46.062878812856994,
+		"ELEVATION" : 4205.7787119999975
+	},
+	{
+		"OBJECTID" : 283,
+		"HOEHE" : 4027,
+		"NAME" : "Allalinhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.894594202947595,
+		"LATITUDE" : 46.0460936383505,
+		"ELEVATION" : 4026.7175119999974
+	},
+	{
+		"OBJECTID" : 284,
+		"HOEHE" : 3436,
+		"NAME" : "Stellihorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.001062464845663,
+		"LATITUDE" : 46.03621775645074,
+		"ELEVATION" : 3435.8062119999977
+	},
+	{
+		"OBJECTID" : 285,
+		"HOEHE" : 3402,
+		"NAME" : "Rheinwaldhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.040202377690719,
+		"LATITUDE" : 46.49374831444507,
+		"ELEVATION" : 3401.776211999997
+	},
+	{
+		"OBJECTID" : 286,
+		"HOEHE" : 3402,
+		"NAME" : "Adula",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.040202377690719,
+		"LATITUDE" : 46.49374831444507,
+		"ELEVATION" : 3401.776211999997
+	},
+	{
+		"OBJECTID" : 287,
+		"HOEHE" : 3072,
+		"NAME" : "Pizzo Campo Tencia",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.725895892378809,
+		"LATITUDE" : 46.42976660974095,
+		"ELEVATION" : 3071.428711999997
+	},
+	{
+		"OBJECTID" : 288,
+		"HOEHE" : 2735,
+		"NAME" : "Monte Zucchero",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.71412926839921,
+		"LATITUDE" : 46.35415645118797,
+		"ELEVATION" : 2735.107511999997
+	},
+	{
+		"OBJECTID" : 289,
+		"HOEHE" : 2773,
+		"NAME" : "Pizzo del Sole",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.767890341401085,
+		"LATITUDE" : 46.52507040041578,
+		"ELEVATION" : 2773.0012119999974
+	},
+	{
+		"OBJECTID" : 290,
+		"HOEHE" : 3048,
+		"NAME" : "Lorenzhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.127892002152262,
+		"LATITUDE" : 46.526720646627865,
+		"ELEVATION" : 3047.8637119999985
+	},
+	{
+		"OBJECTID" : 291,
+		"HOEHE" : 3060,
+		"NAME" : "Piz Grisch",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.472883221950584,
+		"LATITUDE" : 46.53121217034865,
+		"ELEVATION" : 3059.0250119999982
+	},
+	{
+		"OBJECTID" : 292,
+		"HOEHE" : 3279,
+		"NAME" : "Pizzo Tambo",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.283303988260856,
+		"LATITUDE" : 46.496981435511124,
+		"ELEVATION" : 3278.885011999997
+	},
+	{
+		"OBJECTID" : 293,
+		"HOEHE" : 3155,
+		"NAME" : "Zapporthorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.11277854258133,
+		"LATITUDE" : 46.479631527587124,
+		"ELEVATION" : 3154.651211999997
+	},
+	{
+		"OBJECTID" : 294,
+		"HOEHE" : 3107,
+		"NAME" : "Pizz Gallagiun",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.487703183699,
+		"LATITUDE" : 46.3669148241093,
+		"ELEVATION" : 3106.9162119999983
+	},
+	{
+		"OBJECTID" : 295,
+		"HOEHE" : 2956,
+		"NAME" : "Torrone Alto",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.073683983581377,
+		"LATITUDE" : 46.34490298906227,
+		"ELEVATION" : 2955.5512119999985
+	},
+	{
+		"OBJECTID" : 296,
+		"HOEHE" : 2956,
+		"NAME" : "Torent Alto",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.073683983581377,
+		"LATITUDE" : 46.34490298906227,
+		"ELEVATION" : 2955.5512119999985
+	},
+	{
+		"OBJECTID" : 297,
+		"HOEHE" : 3906,
+		"NAME" : "Grosses Wannenhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.097114632963432,
+		"LATITUDE" : 46.4938492300184,
+		"ELEVATION" : 3905.4662119999975
+	},
+	{
+		"OBJECTID" : 298,
+		"HOEHE" : 4634,
+		"NAME" : "Dufourspitze",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.866756959880037,
+		"LATITUDE" : 45.936923663029056,
+		"ELEVATION" : 4633.497511999998
+	},
+	{
+		"OBJECTID" : 299,
+		"HOEHE" : 4634,
+		"NAME" : "Punta Dufour",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.866756959880037,
+		"LATITUDE" : 45.936923663029056,
+		"ELEVATION" : 4633.497511999998
+	},
+	{
+		"OBJECTID" : 300,
+		"HOEHE" : 4634,
+		"NAME" : "Pointe Dufour",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.866756959880037,
+		"LATITUDE" : 45.936923663029056,
+		"ELEVATION" : 4633.497511999998
+	},
+	{
+		"OBJECTID" : 301,
+		"HOEHE" : 3187,
+		"NAME" : "Gross Windgällen",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.732090668536863,
+		"LATITUDE" : 46.807258164329056,
+		"ELEVATION" : 3186.862511999998
+	},
+	{
+		"OBJECTID" : 302,
+		"HOEHE" : 3267,
+		"NAME" : "Clariden",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.871229020652006,
+		"LATITUDE" : 46.842036855494314,
+		"ELEVATION" : 3267.0737119999976
+	},
+	{
+		"OBJECTID" : 303,
+		"HOEHE" : 3297,
+		"NAME" : "Gross Schärhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.82947422793163,
+		"LATITUDE" : 46.82695695526519,
+		"ELEVATION" : 3296.327511999998
+	},
+	{
+		"OBJECTID" : 304,
+		"HOEHE" : 3158,
+		"NAME" : "Hausstock",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.065619645629146,
+		"LATITUDE" : 46.87429682910904,
+		"ELEVATION" : 3157.781211999998
+	},
+	{
+		"OBJECTID" : 305,
+		"HOEHE" : 3613,
+		"NAME" : "Piz Russein",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 8.914637249700837,
+		"LATITUDE" : 46.811187892954145,
+		"ELEVATION" : 3612.2262119999978
+	},
+	{
+		"OBJECTID" : 306,
+		"HOEHE" : 3571,
+		"NAME" : "Glarner Tödi",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.921948543676823,
+		"LATITUDE" : 46.81043614113492,
+		"ELEVATION" : 3570.197511999997
+	},
+	{
+		"OBJECTID" : 307,
+		"HOEHE" : 3073,
+		"NAME" : "Bristen",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.681353299724927,
+		"LATITUDE" : 46.73689595005045,
+		"ELEVATION" : 3072.9325119999976
+	},
+	{
+		"OBJECTID" : 308,
+		"HOEHE" : 3096,
+		"NAME" : "Piz Giuv",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 8.692579333698154,
+		"LATITUDE" : 46.70185036927649,
+		"ELEVATION" : 3095.862511999998
+	},
+	{
+		"OBJECTID" : 309,
+		"HOEHE" : 3096,
+		"NAME" : "Schattig Wichel",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.692579333698154,
+		"LATITUDE" : 46.70185036927649,
+		"ELEVATION" : 3095.862511999998
+	},
+	{
+		"OBJECTID" : 310,
+		"HOEHE" : 3328,
+		"NAME" : "Piz Tgietschen",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 8.769458186907176,
+		"LATITUDE" : 46.74271297277414,
+		"ELEVATION" : 3327.9487119999976
+	},
+	{
+		"OBJECTID" : 311,
+		"HOEHE" : 3328,
+		"NAME" : "Oberalpstock",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.769458186907176,
+		"LATITUDE" : 46.74271297277414,
+		"ELEVATION" : 3327.9487119999976
+	},
+	{
+		"OBJECTID" : 312,
+		"HOEHE" : 2717,
+		"NAME" : "Ortstock",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.948200358560609,
+		"LATITUDE" : 46.92538690768185,
+		"ELEVATION" : 2716.3075119999976
+	},
+	{
+		"OBJECTID" : 313,
+		"HOEHE" : 3040,
+		"NAME" : "Piz Gannaretsch",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 8.786431909680434,
+		"LATITUDE" : 46.612024644370116,
+		"ELEVATION" : 3039.555011999997
+	},
+	{
+		"OBJECTID" : 314,
+		"HOEHE" : 3190,
+		"NAME" : "Scopi",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 8.829999135012912,
+		"LATITUDE" : 46.57171203336807,
+		"ELEVATION" : 3189.652511999997
+	},
+	{
+		"OBJECTID" : 315,
+		"HOEHE" : 3016,
+		"NAME" : "Piz Rondadura",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 8.750755217599124,
+		"LATITUDE" : 46.57621260787404,
+		"ELEVATION" : 3015.5575119999976
+	},
+	{
+		"OBJECTID" : 316,
+		"HOEHE" : 3019,
+		"NAME" : "Piz Blas",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 8.72798555571678,
+		"LATITUDE" : 46.577076098383166,
+		"ELEVATION" : 3018.691211999998
+	},
+	{
+		"OBJECTID" : 317,
+		"HOEHE" : 3007,
+		"NAME" : "Piz Ravetsch",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 8.70318832657169,
+		"LATITUDE" : 46.58431362842863,
+		"ELEVATION" : 3006.130011999998
+	},
+	{
+		"OBJECTID" : 318,
+		"HOEHE" : 2999,
+		"NAME" : "Pizzo Centrale",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.614937724059892,
+		"LATITUDE" : 46.57815630015283,
+		"ELEVATION" : 2998.923711999998
+	},
+	{
+		"OBJECTID" : 319,
+		"HOEHE" : 3210,
+		"NAME" : "Piz Medel",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 8.911162821121748,
+		"LATITUDE" : 46.61825342864899,
+		"ELEVATION" : 3209.312511999997
+	},
+	{
+		"OBJECTID" : 320,
+		"HOEHE" : 3149,
+		"NAME" : "Piz Terri",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.034073363618706,
+		"LATITUDE" : 46.60002766705995,
+		"ELEVATION" : 3148.8762119999974
+	},
+	{
+		"OBJECTID" : 321,
+		"HOEHE" : 3121,
+		"NAME" : "Piz Aul",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.125055719856519,
+		"LATITUDE" : 46.622784759753436,
+		"ELEVATION" : 3120.7100119999977
+	},
+	{
+		"OBJECTID" : 322,
+		"HOEHE" : 2998,
+		"NAME" : "Piz Beverin",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.357918829817983,
+		"LATITUDE" : 46.65255521082694,
+		"ELEVATION" : 2997.480011999998
+	},
+	{
+		"OBJECTID" : 323,
+		"HOEHE" : 4049,
+		"NAME" : "Grosses Fiescherhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.06148627833259,
+		"LATITUDE" : 46.55133284700115,
+		"ELEVATION" : 4048.4775119999977
+	},
+	{
+		"OBJECTID" : 324,
+		"HOEHE" : 3419,
+		"NAME" : "Piz Durschin",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 8.957492756690362,
+		"LATITUDE" : 46.8041957787323,
+		"ELEVATION" : 3418.1475119999977
+	},
+	{
+		"OBJECTID" : 325,
+		"HOEHE" : 3419,
+		"NAME" : "Bifertenstock",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.957492756690362,
+		"LATITUDE" : 46.8041957787323,
+		"ELEVATION" : 3418.1475119999977
+	},
+	{
+		"OBJECTID" : 326,
+		"HOEHE" : 3566,
+		"NAME" : "Vorderer Rhonestock",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.419803023223405,
+		"LATITUDE" : 46.63141692039596,
+		"ELEVATION" : 3565.7262119999978
+	},
+	{
+		"OBJECTID" : 327,
+		"HOEHE" : 3366,
+		"NAME" : "Cima di Rosso",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.718399984583222,
+		"LATITUDE" : 46.306491268157494,
+		"ELEVATION" : 3365.5025119999973
+	},
+	{
+		"OBJECTID" : 328,
+		"HOEHE" : 3289,
+		"NAME" : "Cima della Bondasca",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 9.622290728778557,
+		"LATITUDE" : 46.287798608753704,
+		"ELEVATION" : 3288.6200119999976
+	},
+	{
+		"OBJECTID" : 329,
+		"HOEHE" : 3656,
+		"NAME" : "Pizzo d'Andolla",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.03476214312674,
+		"LATITUDE" : 46.10076874930048,
+		"ELEVATION" : 3655.803711999997
+	},
+	{
+		"OBJECTID" : 330,
+		"HOEHE" : 4223,
+		"NAME" : "Castor",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.793247829655092,
+		"LATITUDE" : 45.92082152861096,
+		"ELEVATION" : 4222.790011999998
+	},
+	{
+		"OBJECTID" : 331,
+		"HOEHE" : 4223,
+		"NAME" : "Punta Castore",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.793247829655092,
+		"LATITUDE" : 45.92082152861096,
+		"ELEVATION" : 4222.790011999998
+	},
+	{
+		"OBJECTID" : 332,
+		"HOEHE" : 2933,
+		"NAME" : "Botta dal Tiroler",
+		"SPRACHCODE" : "Rumantsch Grischun inkl. Lokalsprachen",
+		"LONGITUDE" : 9.750833197800555,
+		"LATITUDE" : 46.483340747535614,
+		"ELEVATION" : 2932.9150119999977
+	},
+	{
+		"OBJECTID" : 333,
+		"HOEHE" : 3540,
+		"NAME" : "Aiguilles du Tour",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.011165519702754,
+		"LATITUDE" : 45.9953200488511,
+		"ELEVATION" : 3539.811211999997
+	},
+	{
+		"OBJECTID" : 334,
+		"HOEHE" : 3540,
+		"NAME" : "Aiguilles du Tour",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.010301506166555,
+		"LATITUDE" : 45.994342782097974,
+		"ELEVATION" : 3539.7450119999976
+	},
+	{
+		"OBJECTID" : 335,
+		"HOEHE" : 3897,
+		"NAME" : "Aiguille d'Argentière",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.0202604376074405,
+		"LATITUDE" : 45.9597851972312,
+		"ELEVATION" : 3895.951211999998
+	},
+	{
+		"OBJECTID" : 336,
+		"HOEHE" : 3753,
+		"NAME" : "Aiguille de l'A Neuve",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.036746783405935,
+		"LATITUDE" : 45.952540227771514,
+		"ELEVATION" : 3752.145011999997
+	},
+	{
+		"OBJECTID" : 337,
+		"HOEHE" : 3680,
+		"NAME" : "Pointe Kurz",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.035726691353389,
+		"LATITUDE" : 45.938333386105406,
+		"ELEVATION" : 3678.9550119999967
+	},
+	{
+		"OBJECTID" : 338,
+		"HOEHE" : 3590,
+		"NAME" : "Pointe Morin",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.036669682646899,
+		"LATITUDE" : 45.943502049656416,
+		"ELEVATION" : 3588.9550119999967
+	},
+	{
+		"OBJECTID" : 339,
+		"HOEHE" : 3836,
+		"NAME" : "Tour Noir",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.037487759415171,
+		"LATITUDE" : 45.94887097333118,
+		"ELEVATION" : 3835.7225119999985
+	},
+	{
+		"OBJECTID" : 340,
+		"HOEHE" : 3820,
+		"NAME" : "Mont Dolent",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.046165679625526,
+		"LATITUDE" : 45.92196219846023,
+		"ELEVATION" : 3819.452511999998
+	},
+	{
+		"OBJECTID" : 341,
+		"HOEHE" : 3578,
+		"NAME" : "Mont Brulé",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.538525016293623,
+		"LATITUDE" : 45.95489957990247,
+		"ELEVATION" : 3577.0075119999983
+	},
+	{
+		"OBJECTID" : 342,
+		"HOEHE" : 3578,
+		"NAME" : "Mont Braoulè",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.538525016293623,
+		"LATITUDE" : 45.95489957990247,
+		"ELEVATION" : 3577.0075119999983
+	},
+	{
+		"OBJECTID" : 343,
+		"HOEHE" : 4174,
+		"NAME" : "Dent d'Hérens",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.605059724026565,
+		"LATITUDE" : 45.9699384817956,
+		"ELEVATION" : 4172.937511999997
+	},
+	{
+		"OBJECTID" : 344,
+		"HOEHE" : 4478,
+		"NAME" : "Mont Cervin",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.658610100685451,
+		"LATITUDE" : 45.976413021160134,
+		"ELEVATION" : 4477.071211999997
+	},
+	{
+		"OBJECTID" : 345,
+		"HOEHE" : 4478,
+		"NAME" : "Monte Cervino",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.658610100685451,
+		"LATITUDE" : 45.976413021160134,
+		"ELEVATION" : 4477.071211999997
+	},
+	{
+		"OBJECTID" : 346,
+		"HOEHE" : 4478,
+		"NAME" : "Matterhorn",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.658610100685451,
+		"LATITUDE" : 45.976413021160134,
+		"ELEVATION" : 4477.071211999997
+	},
+	{
+		"OBJECTID" : 347,
+		"HOEHE" : 3726,
+		"NAME" : "Mont Vélan",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.251664118859551,
+		"LATITUDE" : 45.89173957636943,
+		"ELEVATION" : 3725.3237119999976
+	},
+	{
+		"OBJECTID" : 348,
+		"HOEHE" : 3587,
+		"NAME" : "Grande Tête de By",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.298319232648928,
+		"LATITUDE" : 45.919485268158226,
+		"ELEVATION" : 3586.808711999998
+	},
+	{
+		"OBJECTID" : 349,
+		"HOEHE" : 3553,
+		"NAME" : "Monte Leone",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.110192230403626,
+		"LATITUDE" : 46.249449159829425,
+		"ELEVATION" : 3552.7437119999977
+	},
+	{
+		"OBJECTID" : 350,
+		"HOEHE" : 3211,
+		"NAME" : "Scherbadung",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.22319127060545,
+		"LATITUDE" : 46.32422278444787,
+		"ELEVATION" : 3210.180011999997
+	},
+	{
+		"OBJECTID" : 351,
+		"HOEHE" : 3211,
+		"NAME" : "Pizzo Cervandone",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.22319127060545,
+		"LATITUDE" : 46.32422278444787,
+		"ELEVATION" : 3210.180011999997
+	},
+	{
+		"OBJECTID" : 352,
+		"HOEHE" : 2793,
+		"NAME" : "Pizzo Quadro",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 8.427750236289071,
+		"LATITUDE" : 46.2983307950075,
+		"ELEVATION" : 2793.015011999998
+	},
+	{
+		"OBJECTID" : 353,
+		"HOEHE" : 3149,
+		"NAME" : "Becs de Bosson",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.5181260286044,
+		"LATITUDE" : 46.16794342920811,
+		"ELEVATION" : 3148.6887119999974
+	},
+	{
+		"OBJECTID" : 354,
+		"HOEHE" : 4632,
+		"NAME" : "Dunantspitze",
+		"SPRACHCODE" : "Hochdeutsch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.867773036340846,
+		"LATITUDE" : 45.93687801097552,
+		"ELEVATION" : 4630.980011999998
+	},
+	{
+		"OBJECTID" : 355,
+		"HOEHE" : 4632,
+		"NAME" : "Pointe Dunant",
+		"SPRACHCODE" : "Franzoesisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.867773036340846,
+		"LATITUDE" : 45.93687801097552,
+		"ELEVATION" : 4630.980011999998
+	},
+	{
+		"OBJECTID" : 356,
+		"HOEHE" : 4632,
+		"NAME" : "Punta Dunant",
+		"SPRACHCODE" : "Italienisch inkl. Lokalsprachen",
+		"LONGITUDE" : 7.867773036340846,
+		"LATITUDE" : 45.93687801097552,
+		"ELEVATION" : 4630.980011999998
+	}
+]
